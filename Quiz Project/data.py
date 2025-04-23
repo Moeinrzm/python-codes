@@ -1,0 +1,27 @@
+question_data =[
+    {"text": "Humans discovered programming languages in the 1940s and have been decoding them ever since.", "answer": "False"},
+    {"text": "The print function can only print literal values.", "answer": "False"},
+    {"text": "Variables change their value over time according to the instruction in a program.", "answer": "True"},
+    {"text": "Variables in Python are used to solve for unknown values, like in Algebra.", "answer": "False"},
+    {"text": "Variable names are important because computers understand the meaning of names and change their values accordingly.", "answer": "False"},
+    {"text": "Normally, statements are executed from top to bottom.", "answer": "True"},
+    {"text": "It is illegal to pee in the Ocean in Portugal.", "answer": "True"},
+    {"text": "You can lead a cow down stairs but not up stairs.", "answer": "False"},
+    {"text": "Google was originally called 'Backrub'.", "answer": "True"},
+    {"text": "Buzz Aldrin's mother's maiden name was 'Moon'.", "answer": "True"},
+    {"text": "No piece of square dry paper can be folded in half more than 7 times.", "answer": "False"},
+    {"text": "A few ounces of chocolate can to kill a small dog.", "answer": "True"},
+    {"text": "A' is the most common letter used in the English language.", "answer": "False"},
+    {"text": "The unicorn is the national animal of Scotland.", "answer": "True"},
+    {"text": "An octopus has three hearts.", "answer": "True"},
+    {"text": "Fish cannot blink.", "answer": "True"},
+    {"text": "Fish cannot blink.", "answer": "True"},
+    {"text": "The black box in a plane is black.", "answer": "False"},
+    {"text": "The black box in a plane is black.", "answer": "False"},
+    {"text": "There are five different blood types. ", "answer": "False"},
+    {"text": "Alexander Fleming discovered penicillin ", "answer": "True"},
+    {"text": "Human blood contains gold.", "answer": "True"},
+    {"text": "Humans lose an average of 75 head hairs each month", "answer": "False"},
+    {"text": "You can sneeze during your sleep.", "answer": "False"}
+  ]   
+  
