@@ -31,7 +31,6 @@ def main():
         except ValueError:
             print("Invalid input! Please enter numbers.")
             continue 
-
         if choice == '1':
             result = calculator.sum(num1, num2)
             print(f"The result is: {result}")
@@ -49,5 +48,4 @@ def main():
 
 
 
-main()
         

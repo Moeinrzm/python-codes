@@ -40,7 +40,7 @@ def making(drink,total):
         resource["water"]-=menu["latte"]["contents"]["water"]
         resource["milk"]-=menu["latte"]["contents"]["milk"]
         resource["money"]+=round(total-menu['latte']["cost"],2)
-        print("---------------------------------")
+        print("-----------------------------")
         report()
         
     elif drink=="espersso":

@@ -14,8 +14,6 @@ def speech_to_text():
             print("Sorry, I could not understand the audio.")
         except speech_recognition.RequestError:
             print("Check your internet connection.")            
-            
-if __name__ == "__main__":
-    speech_to_text()           
+                     
 
 
