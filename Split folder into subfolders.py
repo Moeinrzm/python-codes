@@ -34,7 +34,7 @@ def procees(path,count):
 if __name__=="__main__":
 
     if len(sys.argv)!=3:
-        print("please provide correct parameters")
+        print("please provide correct parameters ")
         sys.exit()
 
     if len(sys.argv)==3:
@@ -45,7 +45,7 @@ if __name__=="__main__":
             procees(path,int(count))
             print("done")
         else:
-            print("corrent directory is not valid")
+            print("current directory is not valid")
     else:
         print("wrong paramter are provided")
 
