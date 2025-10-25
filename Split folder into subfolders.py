@@ -45,7 +45,7 @@ if __name__=="__main__":
             procees(path,int(count))
             print("done")
         else:
-            print("correct directory is not valid")
+            print("corrent directory is not valid")
     else:
         print("wrong paramter are provided")
 
