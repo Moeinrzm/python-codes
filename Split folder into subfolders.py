@@ -48,6 +48,3 @@ if __name__=="__main__":
             print("current directory is not valid")
     else:
         print("wrong paramter are provided")
-
-
-    
